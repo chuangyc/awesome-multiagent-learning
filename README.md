@@ -21,9 +21,18 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
     * 霍華德 M.施瓦兹 著，連曉峰 譯(simplified chinese translation for the above book.)
 * **Multiagent Systems** [[Website]](http://www.the-mas-book.info/)
     * G. Weiss, MIT Press, 2013, 2nd edition
-*  ** Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations** [[Website]](http://www.masfoundations.org/)
+* **Graph Theoretic Methods in Multi-Agent Networks**[[Website]](https://press.princeton.edu/titles/9230.html)
+    * M. Mesbahi and M. Egerstedt, Princeton University Press, 2010
+* **Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations** [[Website]](http://www.masfoundations.org/)
     * Y. Shoham, K. Leyton-Brown, Cambridge University Press, 2009
-
+* **Distributed Control of Robotic Networks**[[Website]](http://www.coordinationbook.info/)
+    * F. Bullo, J. Cortés, S. Martínez, Princeton University Press 2009
+* **An Introduction to MultiAgent Systems**[[Website]](http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/IMAS2e.html)
+    * M. Wooldridge, John Wiley & Sons, 2009
+* **Algebraic Graph Theory**[[Website]](https://www.amazon.com/Algebraic-Graph-Theory-Graduate-Mathematics/dp/0387952209)
+    * C. Godsil and G. Royle, Springer, 2001
+* **Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence**[[Website]](https://www.amazon.com/Multiagent-Systems-Distributed-Artificial-Intelligence/dp/0262731312/ref=pd_sim_sbs_b_1)
+    * G. Weiss, The MIT Press, 2000
 ## Tutorials
 
 * **SJTU Multi-Agent Reinforcement Learning Tutorial** [[Website]](http://wnzhang.net/tutorials/marl2018/index.html)
