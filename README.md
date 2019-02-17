@@ -48,7 +48,16 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 * **Videos for "An Introduction to Multiagent Systems (Second Edition)"** [[Website]](http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/videos/)   
     * M. Wooldridge, John Wiley & Sons, 2009
 ## Review Papers
-
+* **Multiagent learning: Basics, challenges, and prospects** [[pdf]](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf)
+    * K. Tuyls, G. Weiss, AI Magazine2012
+* **Foundations of Multi-Agent Learning** [[Website]](https://dl.acm.org/citation.cfm?id=1248179)
+    * R. Vohra, M. Wellman, AIJ2007 
+* **Cooperative multi-agent learning: The state of the art.** [[pdf]](https://cs.gmu.edu/~eclab/papers/panait05cooperative.pdf)
+    * L. Panait and S. Luke, AAMAS2005
+* **Learning in Multiagent Systems: An Introduction from a Game-Theoretic Perspective**[[pdf]](https://arxiv.org/pdf/cs/0308030.pdf)    
+    * J. Vidal, AAMAS2002
+* **Learning in multi-agent systems** [[Website]](https://dl.acm.org/citation.cfm?id=975678) 
+    * E. Alonso, M. D’Inverno, D. Kudenko, KER2001
 ## Research Papers
 
 * **Emergent Complexity via Multi-agent Competition** [[Paper]](https://arxiv.org/abs/1710.03748)[[Code]](https://github.com/openai/multiagent-competition)
@@ -56,7 +65,7 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 * **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 ** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
     * R. Lowe, Y. Wu, A. Tamar, 2018 
-* 
+### Nash-Q 
 
 
 
