@@ -12,7 +12,7 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
  - [Review Papers](#review-papers)
  - [Research Papers](#research-papers)
  - [Platforms](#platforms)
-
+ - [Others](#others)
 
 ## Textbooks
 * **Multi-Agent Machine Learning: A Reinforcement Approach** [[Website]](https://www.wiley.com/en-us/Multi+Agent+Machine+Learning%3A+A+Reinforcement+Approach-p-9781118362082)
@@ -62,12 +62,20 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 
 * **Emergent Complexity via Multi-agent Competition** [[Paper]](https://arxiv.org/abs/1710.03748)[[Code]](https://github.com/openai/multiagent-competition)
     * T. Bansal, J. Pachocki, S. Sidor, ICLR2018
-* **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
-** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
+* **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
     * R. Lowe, Y. Wu, A. Tamar, 2018 
-### Nash-Q 
+### Q-Learning 
 
+#### Fuzzy-Q
+#### Correlated-Q
+#### Nash-Q
+#### Friend or Foe-Q
+#### Minimax-Q
 
+### Joint action Learning
+#### Conditional JAL
+#### JAL
+### Policy Hill Climbing
 
 ## Platforms
 * **Hanabi Learning Environment** [[Code]](https://github.com/deepmind/hanabi-learning-environment)
@@ -78,5 +86,5 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 * **Locutus** [[Code]](https://github.com/bmnielsen/Locutus/)
     
 
-
+## Others
 
