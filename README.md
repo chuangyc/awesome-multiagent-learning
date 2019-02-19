@@ -65,18 +65,29 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 * **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
     * R. Lowe, Y. Wu, A. Tamar, 2018 
 ### Q-Learning 
-
 #### Fuzzy-Q
+* **Fuzzy Q-learning** [[website]](https://ieeexplore.ieee.org/document/622790)
+    * P. Glorennec, L. Jouffe, IFSC1997
 #### Correlated-Q
+* **Correlated Q-learning** [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-034.pdf)
+    * A. Greenwald, K. Hall, ICML2003 
 #### Nash-Q
+* **Nash Q-learning for general-sum stochastic games** [[pdf]](http://www.jmlr.org/papers/volume4/hu03a/hu03a.pdf)
+    * J. Hu, M. Wellman, JMLR2003
 #### Friend or Foe-Q
+* **Friend-or-foe Q-learning in general-sum games** [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.8571&rep=rep1&type=pdf)
+    * M. Littman, ICML2001
 #### Minimax-Q
-
+* **Markov games as a framework for multi-agent reinforcement learning** [[pdf]](https://www2.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf)
+    * M. Littman, ICML1994
 ### Joint action Learning
-#### Conditional JAL
-#### JAL
+* **Reaching pareto-optimality in prisoner’s dilemma using conditional joint action learning** [[website]](https://link.springer.com/article/10.1007/s10458-007-0020-8)
+    * D. Banerjee, S. Sen, AAMAS2007
+* **The dynamics of reinforcement learning in cooperative multiagent systems** [[pdf]](https://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf)
+    * C. Claus, C. Boutilier, AAAI1998
 ### Policy Hill Climbing
-
+* **Multiagent learning using a variable learning rate** [[pdf]](http://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf)
+    * M. Bowling, M. Veloso, Artificial Intelligence2002
 ## Platforms
 * **Hanabi Learning Environment** [[Code]](https://github.com/deepmind/hanabi-learning-environment)
 * **MAgent** [[Code]](https://github.com/geek-ai/MAgent) 
