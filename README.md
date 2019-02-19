@@ -1,9 +1,10 @@
 # Awesome Multiagent Learning: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of multiagent learning and related area resources.
-Inspired by [MARL-Papers](https://github.com/LantaoYu/MARL-Papers) and [awesome-activity-prediction](https://github.com/chinancheng/awesome-activity-prediction).  
-
+Inspired by [MARL-Papers](https://github.com/LantaoYu/MARL-Papers) and [awesome-activity-prediction](https://github.com/chinancheng/awesome-activity-prediction). The papers are sorted by algorithms so far. 
 ## Contributing
-Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://github.com/chuangyc/awesome-multiagent-learning/pulls) to add links. 
+Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.com/chuangyc/awesome-multiagent-learning/pulls) to add links or remove your works. 
+
+
 
 
 ## Overview
