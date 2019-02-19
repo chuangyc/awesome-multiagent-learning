@@ -12,7 +12,6 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
  - [Review Papers](#review-papers)
  - [Research Papers](#research-papers)
  - [Platforms](#platforms)
- - [Others](#others)
 
 ## Textbooks
 * **Multi-Agent Machine Learning: A Reinforcement Approach** [[Website]](https://www.wiley.com/en-us/Multi+Agent+Machine+Learning%3A+A+Reinforcement+Approach-p-9781118362082)
@@ -99,5 +98,4 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 * **Locutus** [[Code]](https://github.com/bmnielsen/Locutus/)
     
 
-## Others
 
