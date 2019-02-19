@@ -60,11 +60,22 @@ Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.co
     * E. Alonso, M. D’Inverno, D. Kudenko, KER2001
 ## Research Papers
 
+
+### Deep Reinforcement Learning    
+* **QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning** [[arxiv]](https://arxiv.org/abs/1803.11485)
+    * T. Rashid, M. Samvelyan, C. Witt, ICML2018
 * **Emergent Complexity via Multi-agent Competition** [[Paper]](https://arxiv.org/abs/1710.03748)[[Code]](https://github.com/openai/multiagent-competition)
     * T. Bansal, J. Pachocki, S. Sidor, ICLR2018
 * **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
     * R. Lowe, Y. Wu, A. Tamar, 2018 
-### Q-Learning 
+### Q-Learning
+
+#### Factorized Q-Learning
+* **Factorized Q-Learning for Large-Scale Multi-Agent Systems** [[arxiv]](https://arxiv.org/abs/1809.03738)
+    * Y. Chen, M. Zhou, Y. Wen, AAAI2019
+#### MFMARL
+* **Mean Field Multi-Agent Reinforcement Learning** [[arxiv]](https://arxiv.org/abs/1802.05438v4)[[COde]](https://github.com/mlii/mfrl)
+    * Y. Yang, R. Luo, M. Li, ICML2018
 #### Fuzzy-Q
 * **Fuzzy Q-learning** [[website]](https://ieeexplore.ieee.org/document/622790)
     * P. Glorennec, L. Jouffe, IFSC1997
@@ -88,6 +99,11 @@ Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.co
 ### Policy Hill Climbing
 * **Multiagent learning using a variable learning rate** [[pdf]](http://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf)
     * M. Bowling, M. Veloso, Artificial Intelligence2002
+### Learning Automata
+
+### Gradient Ascent
+
+
 ## Platforms
 * **Hanabi Learning Environment** [[Code]](https://github.com/deepmind/hanabi-learning-environment)
 * **MAgent** [[Code]](https://github.com/geek-ai/MAgent) 
