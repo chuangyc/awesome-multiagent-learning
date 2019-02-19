@@ -91,6 +91,8 @@ Feel free to send me [email](jack3168@gmail.com) or [Pull Request](https://githu
 ## Platforms
 * **Hanabi Learning Environment** [[Code]](https://github.com/deepmind/hanabi-learning-environment)
 * **MAgent** [[Code]](https://github.com/geek-ai/MAgent) 
+* **multiagent-particle-envs** [[Code]](https://github.com/openai/multiagent-particle-envs)
+* **multiagent-competition** [[Code]](https://github.com/openai/multiagent-competition)
 ### Code for Starcraft: Brood War
 * **SAIDA** [[Website]](https://github.com/TeamSAIDA/SAIDA)
 * **TorchCraft** [[Code]](https://github.com/TorchCraft/TorchCraft)
