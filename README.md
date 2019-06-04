@@ -66,8 +66,26 @@ Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.co
     * T. Rashid, M. Samvelyan, C. Witt, ICML2018
 * **Emergent Complexity via Multi-agent Competition** [[Paper]](https://arxiv.org/abs/1710.03748)[[Code]](https://github.com/openai/multiagent-competition)
     * T. Bansal, J. Pachocki, S. Sidor, ICLR2018
+### Counterfactual Policy Gradient
+* **Counterfactual Multi-Agent policy gradients** [[arxiv]](https://arxiv.org/pdf/1705.08926.pdf)
+    * J. Foerster, G. Farquhar, S. Whiteson
+* **Stabilising experience replay for deep Multi-Agent reinforcement learning** [[arxiv]](https://arxiv.org/pdf/1702.08887.pdf)
+    * J. Foerster, N. Nardelli, S. Whiteson, ICML2017
+* **Learning to communicate with deep multi-agent reinforcement learning** [[paper]](https://papers.nips.cc/paper/6042-learning-to-communicate-with-deep-multi-agent-reinforcement-learning.pdf)
+    * J. Foerster, I. Assael, S. Whiteson, NeuralIPS2016
+ 
+### DRQN (Deep Recurrent Q Network)
+* **Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid**[[paper]](https://www.ijcai.org/proceedings/2018/0079.pdf)
+    * Y. Yang, J. Hao, G. Strbac, IJCAI2018
+
+### DDPG(Deep Determinstic Policy Gradient
 * **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
-    * R. Lowe, Y. Wu, A. Tamar, 2018 
+    * R. Lowe, Y. Wu, A. Tamar, NIPS2017 
+    
+### VDN (Value Decomposition Network)
+* **Value-Decomposition Networks For Cooperative Multi-Agent Learning** [[arxiv]](https://arxiv.org/pdf/1706.05296.pdf)
+    * P. Sunehag, G. Lever, T. Graepel, AAMAS2018
+ 
 ### Q-Learning
 
 #### Factorized Q-Learning
