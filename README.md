@@ -75,8 +75,10 @@ Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.co
     * J. Foerster, I. Assael, S. Whiteson, NeuralIPS2016
  
 ### DRQN (Deep Recurrent Q Network)
-* **Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid**[[paper]](https://www.ijcai.org/proceedings/2018/0079.pdf)
+* **Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid** [[paper]](https://www.ijcai.org/proceedings/2018/0079.pdf)
     * Y. Yang, J. Hao, G. Strbac, IJCAI2018
+* **Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability** [[arxiv]](https://arxiv.org/pdf/1703.06182.pdf)
+    * S. Omidshafiei, J. Pazis, J. Vian, ICML2017
 
 ### DDPG(Deep Determinstic Policy Gradient
 * **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
