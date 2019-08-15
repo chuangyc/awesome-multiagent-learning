@@ -50,6 +50,8 @@ Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.co
 ## Review Papers
 * **Multiagent learning: Basics, challenges, and prospects** [[pdf]](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf)
     * K. Tuyls, G. Weiss, AI Magazine2012
+* **A comprehensive survey of multi-agent reinforcement learning** [[pdf]](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf)
+    8 L. Bus¸oniu, R. Babuska, and B. De Schutter, IIEEE Transactions on Systems Man and Cybernetics Part C Applications and Reviews2008
 * **Foundations of Multi-Agent Learning** [[Website]](https://dl.acm.org/citation.cfm?id=1248179)
     * R. Vohra, M. Wellman, AIJ2007 
 * **Cooperative multi-agent learning: The state of the art.** [[pdf]](https://cs.gmu.edu/~eclab/papers/panait05cooperative.pdf)
@@ -73,14 +75,18 @@ Welcome to send me email(jack3168@gmail.com) or [Pull Request](https://github.co
     * J. Foerster, N. Nardelli, S. Whiteson, ICML2017
 * **Learning to communicate with deep multi-agent reinforcement learning** [[paper]](https://papers.nips.cc/paper/6042-learning-to-communicate-with-deep-multi-agent-reinforcement-learning.pdf)
     * J. Foerster, I. Assael, S. Whiteson, NeuralIPS2016
- 
+
+### LOLA
+* **Learning with Opponent-Learning Awareness** [[paper]](https://arxiv.org/abs/1709.04326)
+    * J. Foerster, R. Chen, M. Shedivat, Shimon Whiteson, AAMAS2018
 ### DRQN (Deep Recurrent Q Network)
 * **Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid** [[paper]](https://www.ijcai.org/proceedings/2018/0079.pdf)
     * Y. Yang, J. Hao, G. Strbac, IJCAI2018
 * **Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability** [[arxiv]](https://arxiv.org/pdf/1703.06182.pdf)
     * S. Omidshafiei, J. Pazis, J. Vian, ICML2017
-
-### DDPG(Deep Determinstic Policy Gradient
+* **Deep Recurrent Q-Learning for Partially Observable MDPs** [[arxiv]](https://arxiv.org/pdf/1507.06527.pdf)
+    * M. Hausknecht, P. Stone, AAAI2015
+### DDPG(Deep Determinstic Policy Gradient)
 * **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments** [[Paper]](https://arxiv.org/abs/1706.02275)[[Code1]](https://github.com/openai/multiagent-particle-envs)[[Code2]](https://github.com/openai/maddpg)
     * R. Lowe, Y. Wu, A. Tamar, NIPS2017 
     
